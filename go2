@@ -1,0 +1,1 @@
+sbcl --core go2.core --noinform --eval "(progn (go2:main) (quit))"

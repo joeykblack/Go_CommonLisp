@@ -1,0 +1,4 @@
+Run the following to make project:
+sbcl
+(ql:quickload "go2")
+(sb-ext:save-lisp-and-die "go2.core")
