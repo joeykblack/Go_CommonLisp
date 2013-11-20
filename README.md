@@ -4,7 +4,7 @@ by [Joey K Black](joey-black.appspot.com)
 
 This is a Go engine.
 
-The game state is represented using dijoint sets.
+The game state is represented using disjoint-sets.
 
 There are several agent implementations using combinations of:
 * Monte Carlo
